@@ -6,7 +6,12 @@ categories: mysql
 ---
 
 pt-query-digest是Percona工具集percona-toolkit的工具之一。
+
 下面先安装percona-toolkit
 
 在mac os下安装，终端执行命令
 <pre>brew install percona-toolkit</pre>
+
+安装好后就可以对慢查日志进行分析了
+
+基本语法：pt-query-digest [OPTION...] [FILE]
