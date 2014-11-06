@@ -1,5 +1,4 @@
 function FindProxyForURL(url, host) {
-alert(1);
     
-    return "DIRECT";
+    return "SOCKS5 127.0.0.1:8080";
 }
