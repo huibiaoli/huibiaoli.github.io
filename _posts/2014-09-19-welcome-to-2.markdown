@@ -2,7 +2,8 @@
 layout: post
 title:  "mysql慢查日志分析工具pt-query-digest"
 date:   2014-09-19 17:17:17
-categories: mysql
+categories: 数据库
+keywords: 数据库,mysql
 ---
 
 pt-query-digest是Percona工具集percona-toolkit的工具之一。
