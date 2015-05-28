@@ -8,6 +8,6 @@ keywords: 运维,git
 
 比较本地分支和远程分支的方法
 <pre>
-git fetch
+git fetch origin master
 git log -p HEAD..FETCH_HEAD
 </pre>
